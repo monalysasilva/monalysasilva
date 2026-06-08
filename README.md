@@ -1,7 +1,5 @@
 # 💫 About Me:
-Olá, eu sou Monalysa.<br><br>Aprendendo...<br>Python<br>HTML<br>CSS<br>JavaScript<br> C++<br>Arduino
-
-
+Olá, eu sou Monalysa.<br><br>Computer Science Student<br>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/monalysasilva) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:monalysasilva799@gmail.com) 
 
